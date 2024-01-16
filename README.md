@@ -2,6 +2,8 @@
 This project done through jonas schemdtmann javascript: Zero to expert. In this project I create a two bank account and transfer money between them, closing thei account and get loan from bank.
 
 # 
+https://github.com/Neo7793/Bankist/assets/134860589/ff631b4f-8582-4da8-b9b3-1a48865e22c6
+
 
 # Skills that is used in this project
 <div align="left">

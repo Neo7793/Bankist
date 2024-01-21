@@ -4,6 +4,12 @@ This project done through jonas schemdtmann javascript: Zero to expert. In this 
 # 
 https://github.com/Neo7793/Bankist/assets/134860589/ff631b4f-8582-4da8-b9b3-1a48865e22c6
 
+# You cah check it on :
+https://sina-bankist.netlify.app/
+
+username 1 : js         password : 1111
+
+username 2 : sm         password : 2222
 
 # Skills that is used in this project
 <div align="left">
